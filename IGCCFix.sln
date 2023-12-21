@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGCCFix", "IGCCFix.csproj", "{D03B509E-783E-4B7B-AD7D-FB8F61E92C2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D03B509E-783E-4B7B-AD7D-FB8F61E92C2F}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{D03B509E-783E-4B7B-AD7D-FB8F61E92C2F}.Debug|Any CPU.Build.0 = Debug|x64
+		{D03B509E-783E-4B7B-AD7D-FB8F61E92C2F}.Release|Any CPU.ActiveCfg = Release|x64
+		{D03B509E-783E-4B7B-AD7D-FB8F61E92C2F}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78753285-30A4-482F-B163-179CAC4C82D5}
+	EndGlobalSection
+EndGlobal

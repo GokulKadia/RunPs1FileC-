@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\IGCCFix\bin\Debug\IGCCFix.exe.config
+C:\Users\Admin\source\repos\IGCCFix\bin\Debug\IGCCFix.exe
+C:\Users\Admin\source\repos\IGCCFix\bin\Debug\IGCCFix.pdb
+C:\Users\Admin\source\repos\IGCCFix\obj\Debug\IGCCFix.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IGCCFix\obj\Debug\IGCCFix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\IGCCFix\obj\Debug\IGCCFix.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IGCCFix\obj\Debug\IGCCFix.exe
+C:\Users\Admin\source\repos\IGCCFix\obj\Debug\IGCCFix.pdb
